@@ -2,7 +2,7 @@
 <br />
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Sempre aprendendo mais sobre **ASP.NET Core, HTML, CSS e JS**
+- 🌱 Estudando sobre **ASP.NET Core, HTML, CSS e JS**
 
 ##
 
